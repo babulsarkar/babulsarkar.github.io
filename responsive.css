@@ -1,0 +1,33 @@
+
+@media all and (max-width: 767px){
+	#social-area{
+		display:none;
+	}
+	#menu{
+		display:none;
+	}
+.left-content{
+	float:left;
+}	
+	
+	
+	
+	
+	
+	
+	
+}
+
+
+
+@media all and (min-width: 480px) and (max-width: 767px){
+	
+	
+	
+	
+	
+}
+
+
+
+
